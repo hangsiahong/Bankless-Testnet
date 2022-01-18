@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+fabric = "*"
+boto3 = "1.18.4"
+ipython = "~=7.25.0"
+joblib = "*"
+tqdm = "*"
+matplotlib = "*"
+pyyaml = "6.0"
+
+[dev-packages]
+
+[requires]
+python_version = "3.8"

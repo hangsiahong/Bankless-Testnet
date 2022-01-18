@@ -1,0 +1,9 @@
+fabric
+boto3
+ipython
+tqdm
+matplotlib
+joblib
+bip-utils
+shutil
+pyyaml
